@@ -6,4 +6,6 @@ panino vegetariano
 
 primi:
 olive ascolane
+arancini
+
 Paninoteca Padovana
